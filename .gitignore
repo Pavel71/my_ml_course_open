@@ -28,5 +28,6 @@ target
 .ipynb_checkpoints
 __init__.py
 data
+.DS_Store
 
 
